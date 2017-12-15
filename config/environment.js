@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'upgrade-repo',
+    modulePrefix: 'my-app',
     environment,
     rootURL: '/',
     locationType: 'auto',

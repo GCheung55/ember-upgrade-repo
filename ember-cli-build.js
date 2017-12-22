@@ -7,9 +7,9 @@ module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
     // Add options here
     outputPaths: {
-      app: {
-         js: '/assets/scripts/my-app.js'
-      },
+      // app: {
+      //    js: '/assets/scripts/my-app.js'
+      // },
       vendor: {
         js: '/assets/scripts/vendor.js'
       }
